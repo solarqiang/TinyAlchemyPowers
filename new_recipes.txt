@@ -1,0 +1,84 @@
+Recipes (for RoG):
+
+Butter: Butterfly Wings x1 + Any Milk  x1 (don't add twigs)
+Bread: Butter x1 + Egg x1 + Flour or Shell Dust x1 (don't add meat)
+Cheese: Electric Milk x2 (don't add meat)
+Fern Spinach: Foliage x2 (don't add meat)
+Banana Pie: Cave Banana x1 (don't add meat)
+Mushroom Soup: any mushroom raw or cooked x1 + Flour or Shell Dust x1 (don't add meat)
+Birchnut Muffin: Cooked Birchnut x1 + Flour x1 (don't add meat)
+Truffle Ham: Truffle x1 + Meat x2 (don't add twigs)
+Eggs and Truffles: Eggs x2 + Truffles x1 (don't add veggies and fruits)
+Oversalted Meal: add more than one salt
+Ribs: Cactus or cooken Cactus x1 + Flour or Shell Dust x1 and Meat-small (don't add twigs)
+Pancakes: Honey x1 + Flour or Shell Dust x1 + Egg x1
+Cactus Coctail: Al least 3X Cactus (don't add meat and veggies)
+Lemon Coctail: Al least 3X Lemon (don't add meat and veggies)
+
+
+Transmutable:
+
+Mosquito->Mosquito Milk
+Cut Wheat->Flour
+Hound Head->Skull Helmet
+Spitter Head->Skull Helmet
+Spiderhat->Skull Helmet
+Broken Shell->Shell Dust
+Salt nugget->Salt
+Truffles->Transmuted Truffles
+Purple Gem -> Gray Gem
+Gold Nugget-> Copper Nugget (if you have Steam Biome mod)
+Copper Nugget -> Gold Nugget (if you have Steam Biome mod)
+
+
+New Cooking Items:
+Lemon->Cooked Lemon
+Truffles->Cooked Truffles
+
+
+Recipes (vanilla):
+
+Butter: Butterfly Wings x1 + Any Milk x1 (don't add twigs)
+Bread: Butter x1 + Egg x1 + Flour or Shell Dust x1 (don't add meat)
+Cheese: Milk x2 (don't add meat)
+Fern Spinach: Foliage x2 (don't add meat)
+Banana Pie: Cave Banana x1 (don't add meat)
+Mushroom Soup: any mushroom raw or cooked x1 + Flour or Shell Dust x1 (don't add meat)
+Truffle Ham: Truffle x1 + Meat x2 (don't add twigs)
+Eggs and Truffles: Eggs x2 + Truffles x1 (don't add veggies and fruits)
+Oversalted Meal: add more than one salt
+Pancakes: Honey x1 + Flour or Shell Dust x1 + Egg x1
+Lemon Coctail: Al least 3X Lemon (don't add meat and veggies)
+
+
+Transmutable:
+
+Mosquito->Mosquito Milk
+Cut Wheat->Flour
+Rabbit->Bones
+Hound Head->Skull Helmet
+Spitter Head->Skull Helmet
+Spiderhat->Skull Helmet
+Broken Shell->Shell Dust
+Salt nugget->Salt
+Truffles->Transmuted Truffles
+Purple Gem -> Gray Gem
+Gold Nugget-> Copper Nugget (if you have Steam Biome mod)
+Copper Nugget -> Gold Nugget (if you have Steam Biome mod)
+
+
+New Cooking Items:
+Lemon->Cooked Lemon
+Truffles->Cooked Truffles
+
+
+Crystal Nasty Mining Suprises:
+
+Red Crystal: overheating (in RoG) or hurting (in vanilla)
+Blue Crystal: freezing
+Orange Crystal: shade monsters
+Green Crystal: enormous strength
+Yellow Crystal: lightning attack
+
+
+

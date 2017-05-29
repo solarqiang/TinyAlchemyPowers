@@ -1,0 +1,230 @@
+Changelog of Tiny Alchemy Powers Mod (previously Extractor mod):
+
+Version 1.7 Special thanks to Hast for making graphics this update. He is now a contributor of this mod :)
+
+Removed:
+Mystery snack
+Cactus (vanilla version)
+Tech Biom and all tech items
+Stone Hand and coppernugget
+
+Re-done:
+
+Hast refreshed most graphic of the mod (list below):
+
+all skull helmets( hound, spider queen and spider spitter), hound head, spitter head, oversalted meal, ribs, pancakes, mushroom soup, lemon tree, lemon cooked, lemon coctail, lemon raw, salt, salt nugget, truffle ham, shell dust, copper nugget, red crystal, blue crystal, orange crystal, green crystal, yellow crystal, cheese, bread, nutmuffin and modicon.
+
+Again thanks and great work ;)
+
+
+ver 1.6.1
+
+Fixed:cactus bug
+Fixed: cactus flower bug
+Add mosquito milk in RoG (mosquito transmutable)
+Add cactus flower transmutable in RoG
+
+ver 1.6
+
+merge all versions of Tiny Alchemy Powers
+
+compatibility changes:
+
+recipe: cactus coctail (thanks to star)
+recipe: lemon coctail
+recipe: butter
+recipe: cheese
+recipe: bread
+recipe: mushroomsoup
+recipe: nutmuffin
+recipe: pancakes
+recipe: ribs
+
+Cactus Coctail: now gives +3 health + 12,5 hunger +20 sanity and lover temperature by 30
+Cactus Coctail: now gives +3 health + 12,5 hunger +20 sanity and lover temperature by 30
+
+Nut muffin is avaiable for RoG users only
+
+Change for vanilla users:
+
+remove nut bush
+add lemon bush
+
+ver 1.5.7
+
+Copper Nugget loot increasing:
+
+Stone Hand: from three to six copper nuggets
+Flintless rock: from one to two copper nuggets
+
+
+ver 1.5.6
+
+Tiles compatibility change.
+Bug fixed: no metal plates loot from clockworks
+
+ver 1.5.5
+
+Groud sound crash path
+Decrease crystals loot
+
+ver 1.5.4
+
+Bug fixed: crock pot crash when it's burned and trying to hammered him
+Wigfrid can eat protein bar
+Bug fixed: groud sound crash
+
+ver 1.5.3
+
+Add World Generation Structure: Stone Hand
+Change recipe: Thulecite Crown
+
+ver 1.5.1
+
+Bug fixed: wrong recipe for Science Machine
+
+ver 1.5
+
+Change: Alchemy Engine Recipe
+Change: Icebox Recipe
+Change: Science Machine Recipe
+Add Ingredient: Metal Plates
+Add Ingredient: Copper Nugget
+Add Biome: Tech biome (two tiles)
+Add food: Protein Bar
+Add World Generation Structures: Tesla Tree, Ancient Tech Devices, Clockwork Makers, Metal Containers, Pawn Remains, Food Generatior, Crystals (five types).
+Add items: copper nugget, metal plates
+Add weapon: tesla rod
+Add armor: metal armor, force field
+Add asnity booster item: mental inhibitor
+Come bask item: mystery snack
+Delete item: mosquito milk
+Change recipes: mosquito milk change to electric milk
+Change tranmute loot: mosquito
+Add loot: more milk from Goats
+Add loot: boneshards from warg
+
+
+ver 1.4.2 
+
+Mods/Updates compatibility scripts rewriting
+RecipeChange: Lightning Staff
+Bug fixed: Wigfrid don't want eat mod meat
+
+
+ver 1.4.1
+
+Bug fixed: rabbit bug
+Rabbits is not transmutable anymore.
+Recipe change: Bone Armor
+Delete Batilisk loot: Pile of bones
+Add Batilisk loot: Bone Shards
+Mosquito compatibility change
+(hotfix) Bug fixed: crash - cactus error
+
+ver 1.4 (RoG compatibity changes)
+
+Mod is no longer out-of-date
+Gray gem now is bait for the mole
+Gray gem now edible for rock eating animals
+Crock Pot compatibility change
+Hats compatibility change
+Removes Cactus from savanna
+Removes Nut Bush
+Add Lemon Bush
+Food will not spoil on the crock pot
+Lightning Staff - when you pick wrong target, lightning strike you
+Cactus is cookable in Crock Pot
+Cooked Birchnut is cookable in Crock Pot
+Nut muffin change name to Birchnut Muffin
+New recipe: Lemon Coctail
+Cactus Cocktail and Lemon Cocktail prevent overheating after drinking.
+Wheat can be planted in the autumn biomie
+Calm amulet compatibility change
+
+ver 1.3.4
+
+Bug fixed: wheat isn't fertilized, when load game
+
+Changes associated with the balance of the mod:
+
+-from now on wheat must be fertilized every five harvest
+
+ver 1.3.3
+
+Changes associated with the balance of the mod:
+
+-Cactus Coctail - decrease values
+-Cactus - decrease values, now it takes sanity and health when eated
+-Cactus Cooked - decrease values, now is not heal
+
+ver 1.3.2
+
+Changes associated with the balance of the mod:
+-Cactus Coctail - decrease values
+-Bananapie - decrease values
+-Cooked Cactus - decrease values
+-Ferspinach - decrease values
+-Nuts - decrease values
+-Nuts Cooked - decrease values
+
+
+ver 1.3.1
+
+Bug fixed: Crash on Load Game when Crock Pot is Full
+
+
+ver 1.3
+
+Add world generation items: cactus
+Add items: cactus, cactus flower, new skull helmet, lighting staff, calm amulet, gray gem, mystery snack
+Add recipes: pancakes, ribs, cactus coctail
+
+ver 1.2
+
+- Change mod name to Tiny Alchemy Powers
+- Change Extractor name to Alchemy Table
+- Change Extract action name to Transmute
+- Add world generation items: salt rock, nut bush
+- Add items: spitter head, new skull helmet, nuts, nut tree, nut muffin, salt, 
+oversalted meal, truffles, truffle ham, eggs and truffles
+- add 
+- Add recipes: nut muffin, truffle ham , eggs and truffles
+- Change Alchemy Table cost
+- Change banana pie values
+- change bread values
+- Change bread anim
+
+
+ver 1.1
+
+- Add items: bone armor, skull helmet, banana pie, mushrom soup, spinach, hound head, shell dust, bones
+- Add recipes: mushroom soup, spinach, banana pie
+- Edited items
+		Rabbit - transmutable
+		Batilisk - new loot - bones
+		Hounds (normal) - new loot - hound head
+		Foliage: can be cooked
+
+ver 1.0
+
+- Minor changes in the code
+- Bug fixed: Crock Pot error
+
+ver 0.9.1
+
+- Add items: cheese
+- Add recipes: cheese
+- Change Extractor cost
+- Change Extractor description
+
+ver 0.9
+- First Release of mod
+- Add Extractor
+- Visible mod food in the Crock Pot
+- Add recipes: bread, butter
+- Add word generation items: wheat
+- Add items: flour, milk, wheat grain, bread
+- Edited items: 
+		Mosquito - transmutable
+		Butter: can be done in a crock pot.
