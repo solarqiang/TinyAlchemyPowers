@@ -144,14 +144,6 @@ AddPrefabPostInit("seaweed_cooked", AddSeaweedTrans)
 AddPrefabPostInit("seaweed_dried", AddSeaweedTrans)
 end
 
---Transmutable Gold Nugget
-local function AddGoldTrans(inst)
-	inst:AddComponent("extractable")
-        inst.components.extractable.product = "coppernugget"
-end
-
-AddPrefabPostInit("goldnugget", AddGoldTrans)
-
 --Transmutable Rabbit
 if GLOBAL.IsDLCEnabled(GLOBAL.REIGN_OF_GIANTS) then
   
